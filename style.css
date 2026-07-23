@@ -4,6 +4,8 @@
     padding:10px;
     background-color:lightgrey;
     outline:3px solid grey;
+    height:562;
+    width:664;
 }
 .across{
 	grid-column-start:1;
@@ -31,4 +33,11 @@ h3{
 }
 body{
 	padding:6px;
+}
+img{
+	width:513px;
+    height:230px;
+}
+body{
+	background-color:beige;
 }
